@@ -1,10 +1,11 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:9d93815",
-  "display_name": "Haskell 9.10.3, hunit",
+  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:c6876bf",
+  "display_name": "Haskell 9.10.3, HUnit 1.6.2.0",
   "visible_filenames": [
-    "test_Hiker.hs",
-    "Hiker.hs",
-    "cyber-dojo.sh"
+    "test/Main.hs",
+    "src/Hiker.hs",
+    "cyber-dojo.sh",
+    "example.cabal"
   ],
   "filename_extension": [
     ".hs"
