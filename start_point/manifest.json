@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:c6876bf",
+  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:9836c08",
   "display_name": "Haskell 9.10.3, HUnit 1.6.2.0",
   "visible_filenames": [
     "test/Main.hs",
