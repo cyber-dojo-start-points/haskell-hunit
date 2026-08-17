@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:f47eceb",
+  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:45fc5c4",
   "display_name": "Haskell 9.10.3, HUnit 1.6.2.0",
   "language": [
     "Haskell",
@@ -12,8 +12,7 @@
   "visible_filenames": [
     "test/Main.hs",
     "src/Hiker.hs",
-    "cyber-dojo.sh",
-    "example.cabal"
+    "cyber-dojo.sh"
   ],
   "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
