@@ -1,0 +1,13 @@
+{
+  "truncated": false,
+  "matches": [
+    "^expected: 42$",
+    "^expected: 84$",
+    "^odd$"
+  ],
+  "match_counts": {
+    "Cases: 3  Tried: 3  Errors: 0  Failures: 3$": 1,
+    "### Failure in: [0-9]+$": 3,
+    "### Error in: ": 0
+  }
+}

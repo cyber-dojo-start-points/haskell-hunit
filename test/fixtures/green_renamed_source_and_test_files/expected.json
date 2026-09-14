@@ -1,0 +1,13 @@
+{
+  "max_output_lines": 10,
+  "truncated": false,
+  "matches": [
+    "^\\[[0-9]+ of [0-9]+\\] Compiling FizzBuzz +\\( src/FizzBuzz\\.hs,",
+    "^\\[[0-9]+ of [0-9]+\\] Compiling Main +\\( test/FizzBuzzTests\\.hs,"
+  ],
+  "match_counts": {
+    "Cases: 1  Tried: 1  Errors: 0  Failures: 0$": 1,
+    "src/Hiker\\.hs": 0,
+    "test/Main\\.hs": 0
+  }
+}

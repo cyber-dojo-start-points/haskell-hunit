@@ -1,0 +1,11 @@
+{
+  "truncated": false,
+  "matches": [
+    "Non-exhaustive patterns in function initial$"
+  ],
+  "match_counts": {
+    "Cases: 2  Tried: 2  Errors: 1  Failures: 0$": 1,
+    "### Error in: +[0-9]+$": 1,
+    "### Failure in: ": 0
+  }
+}

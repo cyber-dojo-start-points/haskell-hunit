@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Cases: 0  Tried: 0  Errors: 0  Failures: 0$": 1,
+    "### Failure in: ": 0,
+    "### Error in: ": 0
+  }
+}

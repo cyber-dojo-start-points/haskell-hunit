@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 12,
+  "truncated": false,
+  "matches": [
+    "^\\[[0-9]+ of [0-9]+\\] Compiling AnswerSize +\\( test/AnswerSize\\.hs,"
+  ],
+  "match_counts": {
+    "Cases: 2  Tried: 2  Errors: 0  Failures: 0$": 1,
+    "### Failure in: ": 0,
+    "### Error in: ": 0
+  }
+}

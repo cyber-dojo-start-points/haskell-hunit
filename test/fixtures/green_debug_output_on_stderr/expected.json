@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 12,
+  "truncated": false,
+  "match_counts": {
+    "answer was called$": 1,
+    "Cases: 1  Tried: 1  Errors: 0  Failures: 0$": 1,
+    "### Failure in: ": 0,
+    "### Error in: ": 0
+  }
+}

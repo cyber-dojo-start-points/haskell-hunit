@@ -1,0 +1,12 @@
+{
+  "truncated": false,
+  "matches": [
+    "^test/AnswerSize\\.hs:[0-9]+$",
+    "^three digits$"
+  ],
+  "match_counts": {
+    "Cases: 2  Tried: 2  Errors: 0  Failures: 1$": 1,
+    "### Failure in: [0-9]+$": 1,
+    "### Error in: ": 0
+  }
+}

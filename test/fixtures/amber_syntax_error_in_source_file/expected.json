@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^src/Hiker\\.hs:[0-9]+:[0-9]+: error: \\[GHC-[0-9]+\\]$": 1,
+    "^ +parse error \\(possibly incorrect indentation or mismatched brackets\\)$": 1,
+    "Cases: ": 0
+  }
+}

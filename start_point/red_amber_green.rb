@@ -12,6 +12,10 @@ lambda { |stdout,stderr,status|
   if match = hunit_pattern.match(output)
     return :amber if match[3] != '0'
     return :red   if match[4] != '0'
+    # A TestList holding nothing runs nothing and HUnit reports the same zero
+    # errors and zero failures either way. The count of cases tried is what
+    # keeps a kata that proved nothing out of green.
+    return :amber if match[2] == '0'
     return :green
   else
     return :amber

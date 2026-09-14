@@ -1,0 +1,5 @@
+module AnswerSize where
+
+this file was saved without the .hs on the end, so find never hands it to
+ghc and none of it is compiled. Staying green is what says so, because this
+line would not parse (

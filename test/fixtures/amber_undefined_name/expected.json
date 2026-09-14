@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^test/Main\\.hs:[0-9]+:[0-9]+: error: \\[GHC-[0-9]+\\]$": 1,
+    "^ +Variable not in scope: theAnswer$": 1,
+    "Cases: ": 0
+  }
+}
