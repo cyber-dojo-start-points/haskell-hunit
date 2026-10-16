@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:eb477d8",
-  "display_name": "Haskell 9.10.3, HUnit 1.6.2.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/haskell_hunit:f52be2e@sha256:b54daf20f42ffd921a23880d3f1b19a3906fb821ed0ed176dd32457c529f9c0b",
+  "display_name": "Haskell 9.14.1, HUnit 1.6.2.0",
   "language": [
     "Haskell",
-    "9.10.3"
+    "9.14.1"
   ],
   "test_framework": [
     "HUnit",
